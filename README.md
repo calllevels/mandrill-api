@@ -1,0 +1,1 @@
+This is a fork of the official Mandril-ruby-api gem
